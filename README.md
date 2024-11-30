@@ -6,4 +6,3 @@
 ![Alt text](images/20241122_083340.jpg)
 
 [AUTHENTICATION](authentication)
-[CELLULAR_NETWORK](Cellular_network)
