@@ -39,4 +39,4 @@ exploring its components, functionality, history, advantages, and comparisons to
 - ใช้ในชีวิตประจำวัน
   - เชื่อมต่อ Internet 5G การโทร ข้อความ Youtube Facebook
 
-[Jetnipat](https://JetnipatMark.github.io)
+[Jetnipat](https://JetnipatMark.github.io/cellular_network)
