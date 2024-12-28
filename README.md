@@ -9,5 +9,5 @@
 </br>
 [E-Card Chrismas](https://kitty340822.github.io/e-card.html)
 </br>
-[Consistency](https://kitty340822.github.io/data_quality.html)
+[Consistency-Data_Quality](https://kitty340822.github.io/data_quality.html)
 
