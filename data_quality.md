@@ -1,6 +1,6 @@
 Data_Quality
 
-Consistency
+[Consistency](https://icedq.com/6-data-quality-dimensions)
 
 - Chat GPT
     Consistency ใน Data Quality หมายถึง ความสอดคล้องและคงเส้นคงวาของข้อมูล ซึ่งข้อมูลต้องไม่ขัดแย้งกันและต้องแสดงค่าเดียวกันเมื่อถูกใช้งานหรือแสดงผลในบริบทต่าง ๆ
