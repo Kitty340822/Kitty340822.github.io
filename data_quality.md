@@ -38,3 +38,13 @@ Consistency
 
 - Myself
   - Consistency หมายถึง ความสอดคล้องและใกล้เคียงกันของชุดข้อมูลของคุณกับชุดข้อมูลอื่น หรือชุดข้อมูลที่อ้างอิง
+ 
+- Example
+  - Here are few examples of Data Consistency DQ dimension:
+
+    - Record level data consistency across source and target
+    - Attribute level data consistency across source and target
+    - Data consistency between subject areas
+    - Data consistency in transactions
+    - Data consistency across time
+    - Data consistency in data representation
