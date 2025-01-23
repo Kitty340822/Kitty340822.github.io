@@ -8,7 +8,7 @@ Board Game Cyber Security
 
 Youtube!!!
 
-![Youtube!](https://www.youtube.com/watch?v=0B2iD-YyFcw)
+![[Youtube!](images/474181717_961963442059040_6448390272030181746_n.jpg)](https://www.youtube.com/watch?v=0B2iD-YyFcw)
 
 -Members-
 
