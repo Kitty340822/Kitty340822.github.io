@@ -7,12 +7,19 @@ Board Game Cyber Security
 ![Alt text](images/474451358_992065772845942_3453333880804250042_n.jpg)
 
 Youtube!!!
+
 ![Youtube!](https://www.youtube.com/watch?v=0B2iD-YyFcw)
 
 "-Members-"
-[Top](https://top123321.github.io/boardgame)
-[Jetnipat](https://JetnipatMark.github.io/boardgame)
-[Kasidit](https://kasidit1647.github.io/boardgame)
-[Suraphak](https://titigerherb.github.io/boardgame)
-[Purin](https://phaipy.github.io/boardgame)
+
+1. [Top](https://top123321.github.io/boardgame)
+2. [Jetnipat](https://JetnipatMark.github.io/boardgame)
+3. [Kasidit](https://kasidit1647.github.io/boardgame)
+4. [Suraphak](https://titigerherb.github.io/boardgame)
+5. [Purin](https://phaipy.github.io/boardgame)
+6. [Phuriphat](https://prxsss.github.io/boardgame)
+
+
+
+
 
