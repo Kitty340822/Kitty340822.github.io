@@ -12,7 +12,7 @@ Youtube!!!
 
 -Members-
 
-1. [Top](https://top123321.github.io/boardgame)
+1. [Panyawat](https://top123321.github.io/boardgame)
 2. [Jetnipat](https://JetnipatMark.github.io/boardgame)
 3. [Kasidit](https://kasidit1647.github.io/boardgame)
 4. [Suraphak](https://titigerherb.github.io/boardgame)
