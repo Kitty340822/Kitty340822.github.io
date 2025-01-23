@@ -10,7 +10,7 @@ Youtube!!!
 
 ![Youtube!](https://www.youtube.com/watch?v=0B2iD-YyFcw)
 
-"-Members-"
+-Members-
 
 1. [Top](https://top123321.github.io/boardgame)
 2. [Jetnipat](https://JetnipatMark.github.io/boardgame)
@@ -18,8 +18,3 @@ Youtube!!!
 4. [Suraphak](https://titigerherb.github.io/boardgame)
 5. [Purin](https://phaipy.github.io/boardgame)
 6. [Phuriphat](https://prxsss.github.io/boardgame)
-
-
-
-
-
