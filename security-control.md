@@ -7,5 +7,5 @@ Sign in Desktop (รหัสเข้าใช้โน็ตบุค)
 ![รูปsecurityControls](images/86958.jpg)
 
  - Types of Security Controls: Technical Controls
-
+  
  - Control Functions: Preventive
