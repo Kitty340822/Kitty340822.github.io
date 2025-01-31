@@ -1,5 +1,3 @@
-Data_Quality
-
 [Consistency](https://icedq.com/6-data-quality-dimensions)
 
 - Chat GPT
