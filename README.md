@@ -9,7 +9,7 @@
 
 [E-Card Chrismas](https://kitty340822.github.io/e-card.html)
 
-[Consistency-Data_Quality](https://kitty340822.github.io/data_quality.html)
+[Consistency-Data_Quality](https://kitty340822.github.io/consistency)
 
 [Boardgame_Security](https://kitty340822.github.io/boardgame)
 
